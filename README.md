@@ -47,7 +47,6 @@ You should get the following output:
     Processed 12539 reviews with 296529 sentences. Ignored 47 reviews.
 
 
-
 ## References
 
 Kessler, W. and Kuhn, J. (2014)
@@ -58,3 +57,8 @@ In: Proceedings of LREC '14.
 "Learning Document-Level Semantic Properties from Free-Text Annotations"
 Journal of Artificial Intelligence Research archive
 Volume 34 Issue 1, January 2009.
+
+
+## Licence
+This code is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license
+[http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/)
