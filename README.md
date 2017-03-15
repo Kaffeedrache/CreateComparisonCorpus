@@ -49,16 +49,19 @@ You should get the following output:
 
 ## References
 
-Kessler, W. and Kuhn, J. (2014)
+Wiltrud Kessler and Jonas Kuhn (2014)
 "A Corpus of Comparisons in Product Reviews"
-In: Proceedings of LREC '14.
+In Proceedings of the 9th Language Resources and Evaluation Conference (LREC 2014).
 
- Branavan, Chen, Eisenstein, Barzilay (2009) 
+S.R.K. Branavan, Harr Chen, Jacob Eisenstein, Regina Barzilay (2009) 
 "Learning Document-Level Semantic Properties from Free-Text Annotations"
-Journal of Artificial Intelligence Research archive
+Journal of Artificial Intelligence Research archive, 
 Volume 34 Issue 1, January 2009.
 
 
 ## Licence
+
+(c) Wiltrud Kessler
+
 This code is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license
 [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/)
